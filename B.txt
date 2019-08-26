@@ -1,1 +1,2 @@
 A has also added something on this file
+B has added this file
