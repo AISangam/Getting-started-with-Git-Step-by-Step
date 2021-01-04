@@ -18,3 +18,7 @@ Code is for testing purpose and learning how to use pr request
 
 Note: This repository is only for learning git in detail.
 Code is pushed from local branch.
+
+Trying to raise pull request from command line
+
+Last commit dated Jan4, 2021
