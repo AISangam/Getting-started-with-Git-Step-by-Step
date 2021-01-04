@@ -1,1 +1,3 @@
 Great, B has written the first line on this text file
+
+I am merging this file to the master branch
