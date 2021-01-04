@@ -11,3 +11,5 @@ A new line is added and I want to see this in my local repository also
 first commit
 second commit
 thrid commit
+
+I am adding new feature to this branch which I will merge in the master branch using merge request.
