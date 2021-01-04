@@ -12,4 +12,9 @@ first commit
 second commit
 thrid commit
 
-I am adding new feature to this branch which I will merge in the master branch using merge request.
+I am adding new feature to this branch which I will merge in the master branch using merge request.  
+
+Code is for testing purpose and learning how to use pr request
+
+Note: This repository is only for learning git in detail.
+Code is pushed from local branch.
