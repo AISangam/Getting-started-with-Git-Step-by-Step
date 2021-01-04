@@ -9,3 +9,4 @@ Start learning remote repositories
 A new line is added and I want to see this in my local repository also
 
 feature commit
+second feature commit
