@@ -25,3 +25,5 @@ Last commit dated Jan4, 2021
 
 Remote change
 Adding the first commit to the demo branch from pycharm Git
+
+Get a new feature for rebase command learning
